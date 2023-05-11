@@ -1,0 +1,9 @@
+ create a folder
+ //clone a repo command
+ git clone https://github.com/Sarthak-ONS/react-forms.git
+ //repo will create a file i.e is react forms
+  cd .\react-forms\
+  //installing node modules
+   npm i
+   //running a npm commmand
+   npm start
